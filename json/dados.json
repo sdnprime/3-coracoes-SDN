@@ -1,0 +1,14 @@
+{
+  "dados": [
+    {
+      "id": "1",
+      "nome": "SALSA 8g",
+      "categoria": "Ervas",
+      "preco": 24.98,
+      "imagem": "imagens/CAPPUCCIONO-CLASSIC-C-CAPSULA.png",
+      "informacaoNutricional": {
+        "Valor energético (kcal)": "0%"
+      }
+    }
+  ]
+}

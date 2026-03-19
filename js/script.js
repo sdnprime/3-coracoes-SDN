@@ -18,7 +18,7 @@ const formTabContents = document.querySelectorAll(".form-tab-content");
 
 // Inicializar aplicação
 function init() {
-  loadProducts();
+  carregarCards();
   renderProducts();
   setupEventListeners();
 }
