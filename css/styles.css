@@ -29,12 +29,8 @@ body {
 }
 
 .header-content img {
-  width: 7%;
+  width: 10%;
   height: 100%;
-}
-
-.header-content button {
-  visibility: hidden;
 }
 
 .header-left h1 {
@@ -43,6 +39,10 @@ body {
   margin-bottom: 0.25rem;
   justify-content: center;
   display: flex;
+}
+
+.header-content .logocim {
+  width: 10%;
 }
 
 .search-container {
