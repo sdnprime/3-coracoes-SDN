@@ -195,7 +195,7 @@
       "categoria": "Máquinas",
       "preco": 899.0,
       "imagem": "imagens/1_A.png",
-      "Especificações": {
+      "especificacoes": {
         "Peso do Produto": "3,3 Kg",
         "Pressão": "Multipressão 2 e 15 Bar",
         "Sistema de suprimento": "Cápsula",

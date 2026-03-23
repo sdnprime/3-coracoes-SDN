@@ -94,7 +94,8 @@ function createProductCard(product) {
   card.className = "product-card";
 
   // Ajustado para o nome da chave no seu JSON: "informacaoNutricional"
-  const nutrition = product.informacaoNutricional || {};
+  const nutrition =
+    product.informacaoNutricional || product.especificacoes || {};
 
   // Mapeia dinamicamente: funciona para "Sódio", "Açúcares", "Minerais", etc.
   const nutritionRows = Object.entries(nutrition)
