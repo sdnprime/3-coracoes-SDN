@@ -97,12 +97,14 @@ function createProductCard(product) {
   const nutrition =
     product.informacaoNutricional || product.especificacoes || {};
 
-  if (product.informacaoNutricional.length > 0) {
-    nameLaber = "Informação Nutricional";
+  if (
+    product.informacaoNutricional &&
+    product.informacaoNutricional.length > 0
+  ) {
+    nameLabel = "Informação Nutricional";
   } else {
-    nameLaber = "Especificações";
+    nameLabel = "Especificações";
   }
-
   // Mapeia dinamicamente: funciona para "Sódio", "Açúcares", "Minerais", etc.
   const nutritionRows = Object.entries(nutrition)
     .map(([key, value]) => {
