@@ -243,6 +243,41 @@
         "Potência": "1250W",
         "Reservatório de Água": "1,3 L"
       }
+    },
+    {
+      "id": "14",
+      "nome": "Café Solúvel 3 Corações Liofilizado 100% Arábica Refil 40g",
+      "categoria": "Cafés",
+      "preco": 10.99,
+      "imagem": "imagens/5.png",
+      "especificacoes": {
+        "Formato": "Solúvel",
+        "Peso": "40g"
+      }
+    },
+    {
+      "id": "15",
+      "nome": "Café Solúvel Liofilizado 100% Arábica 3 Corações Vidro 100g",
+      "categoria": "Cafés",
+      "preco": 27.79,
+      "imagem": "imagens/Cafe_Soluvel_Liofilizado_100__Arabica_3_Coracoes_Vidro_100g.png",
+      "especificacoes": {
+        "Formato": "Solúvel",
+        "Classificação": "Liofilizado",
+        "Intensidade": "Suave",
+        "Peso": "100g"
+      }
+    },
+    {
+      "id": "16",
+      "nome": "Café Solúvel Granulado 3 Corações Tradicional Refil 40g",
+      "categoria": "Cafés",
+      "preco": 30.19,
+      "imagem": "imagens/Cafe_Soluvel_Liofilizado_100__Arabica_3_Coracoes_Vidro_100g.png",
+      "especificacoes": {
+        "Formato": "Solúvel",
+        "Peso": "40g"
+      }
     }
   ]
 }
