@@ -92,10 +92,16 @@ function filterProducts() {
 function createProductCard(product) {
   const card = document.createElement("div");
   card.className = "product-card";
-
+  let nameLaber = "";
   // Ajustado para o nome da chave no seu JSON: "informacaoNutricional"
   const nutrition =
     product.informacaoNutricional || product.especificacoes || {};
+
+  if (product.informacaoNutricional.length > 0) {
+    nameLaber = "Informação Nutricional";
+  } else {
+    nameLaber = "Especificações";
+  }
 
   // Mapeia dinamicamente: funciona para "Sódio", "Açúcares", "Minerais", etc.
   const nutritionRows = Object.entries(nutrition)
@@ -122,7 +128,7 @@ function createProductCard(product) {
         </div>
 
         <div class="card-back">
-            <h4>Informação Nutricional</h4>
+            <h4>${nameLaber}</h4>
             <table class="nutrition-table">
                 <tbody>
                     ${nutritionRows}
