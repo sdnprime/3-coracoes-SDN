@@ -4,7 +4,8 @@
       "id": "1",
       "nome": "Cápsula de Cappuccino Classic TRES 3 Corações",
       "categoria": "Cápsulas",
-      "preco": 24.98,
+      "precoOriginal": 24.98,
+      "preco": "Por: R$: 0,00 + 950 pontos",
       "imagem": "imagens/CAPPUCCINO-CLASSIC-CAPSULA.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "44 kcal = 185 kJ",
@@ -25,7 +26,8 @@
       "id": "2",
       "nome": "Cápsula Chocolatto TRES 3 Corações",
       "categoria": "Cápsulas",
-      "preco": 24.98,
+      "precoOriginal": 24.98,
+      "preco": "Por: R$: 0,00 + 950 pontos",
       "imagem": "imagens/CHOCOLATTO-C-CAPSULA.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "44 kcal = 185 kJ",
@@ -46,7 +48,8 @@
       "id": "3",
       "nome": "Cápsula de Cappuccino Doce de Leite Havanna TRES",
       "categoria": "Cápsulas",
-      "preco": 27.18,
+      "precoOriginal": 27.18,
+      "preco": "Por: R$: 0,00 + 950 pontos",
       "imagem": "imagens/CAPPUCCINO-HAVANNA-C-CAPSULA.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "44 kcal = 185 kJ",
@@ -67,7 +70,8 @@
       "id": "4",
       "nome": "Cápsula Chocolatto Caramello TRES 3 Corações",
       "categoria": "Cápsulas",
-      "preco": 24.98,
+      "precoOriginal": 24.98,
+      "preco": "Por: R$: 0,00 + 950 pontos",
       "imagem": "imagens/CHOCOLATTO-CARAMELO-C-CAPSULA.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "44 kcal = 184 kJ",
@@ -88,7 +92,8 @@
       "id": "5",
       "nome": "Cápsula Baileys Supremo Macchiato TRES",
       "categoria": "Cápsulas",
-      "preco": 27.18,
+      "precoOriginal": 27.18,
+      "preco": "Por: R$: 13,59 + 550 pontos",
       "imagem": "imagens/BAILEYS-C-CAPSULA.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "44 kcal = 185 kJ",
@@ -109,7 +114,8 @@
       "id": "6",
       "nome": "Cappuccino Pronto Caramelo Salgado 3 Corações 260ML",
       "categoria": "Cappuccinos",
-      "preco": 7.29,
+      "precoOriginal": 7.29,
+      "preco": "Por: R$: 3,65 + 75 pontos",
       "imagem": "imagens/Cappuccino-Pronto-Caramelo-Salgado.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "254 kcal",
@@ -130,7 +136,8 @@
       "id": "7",
       "nome": "Cappuccino Pronto Cookies'n Cream 3 Corações 260ML",
       "categoria": "Cappuccinos",
-      "preco": 7.29,
+      "precoOriginal": 7.29,
+      "preco": "Por: R$: 3,65 + 75 pontos",
       "imagem": "imagens/Cappuccino-Pronto-Cookie_n-Cream_.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "254 kcal",
@@ -151,7 +158,8 @@
       "id": "8",
       "nome": "Cappuccino Pronto Classic 3 Corações 260ML",
       "categoria": "Cappuccinos",
-      "preco": 7.29,
+      "precoOriginal": 7.29,
+      "preco": "Por: R$: 3,65 + 75 pontos",
       "imagem": "imagens/CAPPUCCINO_PRONTO_CLASSIC_VTEX.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "267 kcal = 1121 kJ",
@@ -173,7 +181,8 @@
       "id": "9",
       "nome": "Bebida 3 Corações Pronto Pingado 260ML",
       "categoria": "Cappuccinos",
-      "preco": 7.29,
+      "precoOriginal": 7.29,
+      "preco": "",
       "imagem": "imagens/PINGADO_PRONTO.png",
       "informacaoNutricional": {
         "Valor energético (kcal)": "192 kcal = 806 kJ",
@@ -193,7 +202,8 @@
       "id": "10",
       "nome": "Cafeteira Espresso Touch Star Wars™ Darth Vader e Stormtrooper Automática - TRES 3 Corações",
       "categoria": "Máquinas",
-      "preco": 899.0,
+      "precoOriginal": 899.0,
+      "preco": "",
       "imagem": "imagens/1_A.png",
       "especificacoes": {
         "Pressão": "Multipressão 2 e 15 Bar",
@@ -211,7 +221,8 @@
       "id": "11",
       "nome": "Cafeteira Espresso Touch Star Wars™ R2D2 e BB-8 Automática - TRES 3 Corações",
       "categoria": "Máquinas",
-      "preco": 899.0,
+      "precoOriginal": 899.0,
+      "preco": "",
       "imagem": "imagens/2_A.png",
       "especificacoes": {
         "Pressão": "Multipressão 2 e 15 Bar",
@@ -229,7 +240,8 @@
       "id": "13",
       "nome": "Cafeteira Espresso Barista Prata Automática - TRES 3 Corações",
       "categoria": "Máquinas",
-      "preco": 899.0,
+      "precoOriginal": 899.0,
+      "preco": "Por: R$: 0,00 + 17000 pontos",
       "imagem": "imagens/1_Maquina_Barista_prata_cappuccino_italiano.png",
       "especificacoes": {
         "Pressão": "Multipressão 2 e 15 Bar",
@@ -248,7 +260,8 @@
       "id": "14",
       "nome": "Café Solúvel 3 Corações Liofilizado 100% Arábica Refil 40g",
       "categoria": "Cafés",
-      "preco": 10.99,
+      "precoOriginal": 10.99,
+      "preco": "",
       "imagem": "imagens/5.png",
       "especificacoes": {
         "Formato": "Solúvel",
@@ -259,7 +272,8 @@
       "id": "15",
       "nome": "Café Solúvel Liofilizado 100% Arábica 3 Corações Vidro 100g",
       "categoria": "Cafés",
-      "preco": 27.79,
+      "precoOriginal": 27.79,
+      "preco": "",
       "imagem": "imagens/Cafe_Soluvel_Liofilizado_100__Arabica_3_Coracoes_Vidro_100g.png",
       "especificacoes": {
         "Formato": "Solúvel",
@@ -272,7 +286,8 @@
       "id": "16",
       "nome": "Café Solúvel Granulado 3 Corações Tradicional Refil 40g",
       "categoria": "Cafés",
-      "preco": 30.19,
+      "precoOriginal": 30.19,
+      "preco": "",
       "imagem": "imagens/3C-TRADICIONAL-40G.png",
       "especificacoes": {
         "Formato": "Solúvel",
@@ -283,7 +298,8 @@
       "id": "17",
       "nome": "Porta Cápsulas Sustentável para 16 Cápsulas TRES 3 Corações",
       "categoria": "Acessórios",
-      "preco": 99.9,
+      "precoOriginal": 99.9,
+      "preco": "",
       "imagem": "imagens/porta-caps3--1-.png",
       "especificacoes": {
         "Tamanho": "25cm x 25cm x 5,5cm",
@@ -294,7 +310,8 @@
       "id": "18",
       "nome": "Porta Cápsulas de Prateleira Cromado Para 30 Cápsulas TRES 3 Corações",
       "categoria": "Acessórios",
-      "preco": 69.9,
+      "precoOriginal": 69.9,
+      "preco": "",
       "imagem": "imagens/porta-capsulas-prateleira-prata.png",
       "especificacoes": {
         "Capacidade": "Suporta até 30 cápsulas",
@@ -305,7 +322,8 @@
       "id": "19",
       "nome": "Moedor de Café Manual - 120g",
       "categoria": "Acessórios",
-      "preco": 710.0,
+      "precoOriginal": 710.0,
+      "preco": "",
       "imagem": "imagens/Moinho-de-Cafe-Manual.png",
       "especificacoes": {
         "Capacidade": "120 g",
