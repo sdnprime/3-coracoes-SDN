@@ -97,7 +97,10 @@ function createProductCard(product) {
   const nutrition =
     product.informacaoNutricional || product.especificacoes || {};
 
-  if (product.informacaoNutricional?.length > 0) {
+  if (
+    product.informacaoNutricional &&
+    Object.keys(product.informacaoNutricional).length > 0
+  ) {
     nameLabel = "Informação Nutricional";
   } else {
     nameLabel = "Especificações";
