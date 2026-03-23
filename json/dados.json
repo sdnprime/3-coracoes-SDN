@@ -104,6 +104,90 @@
         "Contém Glúten": "Não",
         "Porção de": "11 g (1 cápsula)"
       }
+    },
+    {
+      "id": "6",
+      "nome": "Cappuccino Pronto Caramelo Salgado 3 Corações 260ML",
+      "categoria": "Cappuccinos",
+      "preco": 7.29,
+      "imagem": "imagens/Cappuccino-Pronto-Caramelo-Salgado.png",
+      "informacaoNutricional": {
+        "Valor energético (kcal)": "254 kcal",
+        "Contém Lactose": "Sim",
+        "Carboidratos": "36 g",
+        "Açúcares": "34 g",
+        "Proteínas": "8,8 g",
+        "Gorduras Trans": "0 g",
+        "Fibra Alimentar": "0,8 g",
+        "Sódio": "351 mg",
+        "Gorduras Totais": "8,1 g",
+        "Gorduras Saturadas": "4,7 g",
+        "Contém Glúten": "Não",
+        "Porção de": "260ml"
+      }
+    },
+    {
+      "id": "7",
+      "nome": "Cappuccino Pronto Cookies'n Cream 3 Corações 260ML",
+      "categoria": "Cappuccinos",
+      "preco": 7.29,
+      "imagem": "imagens/Cappuccino-Pronto-Cookie_n-Cream_.png",
+      "informacaoNutricional": {
+        "Valor energético (kcal)": "254 kcal",
+        "Contém Lactose": "Sim",
+        "Carboidratos": "36 g",
+        "Açúcares": "34 g",
+        "Proteínas": "8,8 g",
+        "Gorduras Trans": "0 g",
+        "Fibra Alimentar": "0,8 g",
+        "Sódio": "299 mg",
+        "Gorduras Totais": "8,1 g",
+        "Gorduras Saturadas": "4,7 g",
+        "Contém Glúten": "Não",
+        "Porção de": "260ml"
+      }
+    },
+    {
+      "id": "8",
+      "nome": "Cappuccino Pronto Classic 3 Corações 260ML",
+      "categoria": "Cappuccinos",
+      "preco": 7.29,
+      "imagem": "imagens/CAPPUCCINO_PRONTO_CLASSIC_VTEX.png",
+      "informacaoNutricional": {
+        "Valor energético (kcal)": "267 kcal = 1121 kJ",
+        "Contém Lactose": "Sim",
+        "Carboidratos": "39 g",
+        "Açúcares": "37 g",
+        "Proteínas": "8,7 g",
+        "Gorduras Trans": "0 g",
+        "Fibra Alimentar": "1,6 g",
+        "Sódio": "309 mg",
+        "Cálcio": "350 mg",
+        "Gorduras Totais": "8,3 g",
+        "Gorduras Saturadas": "6,3 g",
+        "Contém Glúten": "Não",
+        "Porção de": "260ml"
+      }
+    },
+    {
+      "id": "9",
+      "nome": "Bebida 3 Corações Pronto Pingado 260ML",
+      "categoria": "Cappuccinos",
+      "preco": 7.29,
+      "imagem": "imagens/PINGADO_PRONTO.png",
+      "informacaoNutricional": {
+        "Valor energético (kcal)": "192 kcal = 806 kJ",
+        "Contém Lactose": "Sim",
+        "Carboidratos": "33 g",
+        "Proteínas": "6,6 g",
+        "Gorduras Trans": "0 g",
+        "Fibra Alimentar": "0 g",
+        "Sódio": "333 mg",
+        "Gorduras Totais": "3,7 g",
+        "Gorduras Saturadas": "2,5 g",
+        "Contém Glúten": "Não",
+        "Porção de": "260ml"
+      }
     }
   ]
 }
