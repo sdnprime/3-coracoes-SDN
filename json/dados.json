@@ -188,6 +188,26 @@
         "Contém Glúten": "Não",
         "Porção de": "260ml"
       }
+    },
+    {
+      "id": "10",
+      "nome": "Cafeteira Espresso Touch Star Wars™ Darth Vader e Stormtrooper Automática - TRES 3 Corações",
+      "categoria": "Máquinas",
+      "preco": 899.0,
+      "imagem": "imagens/1_A.png",
+      "Especificações": {
+        "Peso do Produto": "3,3 Kg",
+        "Pressão": "Multipressão 2 e 15 Bar",
+        "Sistema de suprimento": "Cápsula",
+        "Consumo": "Em uso 13W/H, Em repouso 1,2 W/H",
+        "Tipos de Bebida": "cafés espressos, cafés filtrados, cappuccinos, chocolatto, chás e café com leite",
+        "Automática": "SIM",
+        "Bandeja coletora de resíduos removível": "SIM",
+        "Revestimento externo": "Plástico ABS",
+        "Dimensões do Produto": "29,5 x 13,8 x 25,5 cm",
+        "Potência": "1250W",
+        "Reservatório de Água": "560ML"
+      }
     }
   ]
 }
