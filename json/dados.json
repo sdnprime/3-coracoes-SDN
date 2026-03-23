@@ -206,6 +206,43 @@
         "Potência": "1250W",
         "Reservatório de Água": "560ML"
       }
+    },
+    {
+      "id": "11",
+      "nome": "Cafeteira Espresso Touch Star Wars™ R2D2 e BB-8 Automática - TRES 3 Corações",
+      "categoria": "Máquinas",
+      "preco": 899.0,
+      "imagem": "imagens/2_A.png",
+      "especificacoes": {
+        "Pressão": "Multipressão 2 e 15 Bar",
+        "Suprimento": "Cápsula",
+        "Consumo": "Uso 13W/H, Repouso 1,2 W/H",
+        "Tipos de Bebida": "Cafés espressos, filtrados, e com leite, Cappuccinos, Chocolatto, Chás",
+        "Automática": "SIM",
+        "Bandeja coletora": "SIM",
+        "Dimensões do Produto": "29,5 x 13,8 x 25,5 cm",
+        "Potência": "1250W",
+        "Reservatório de Água": "560ML"
+      }
+    },
+    {
+      "id": "13",
+      "nome": "Cafeteira Espresso Barista Prata Automática - TRES 3 Corações",
+      "categoria": "Máquinas",
+      "preco": 899.0,
+      "imagem": "imagens/1_Maquina_Barista_prata_cappuccino_italiano.png",
+      "especificacoes": {
+        "Pressão": "Multipressão 2 e 15 Bar",
+        "Suprimento": "Cápsula",
+        "Reservatório de cápsulas": "SIM",
+        "Consumo": "Uso 13W/H, Repouso 1,02 W/H",
+        "Tipos de Bebida": "Cafés espressos, filtrados, e com leite, Cappuccinos, Chocolatto, Chás",
+        "Automática": "SIM",
+        "Bandeja coletora": "SIM",
+        "Dimensões do Produto": "36 x 22 x 28 cm",
+        "Potência": "1250W",
+        "Reservatório de Água": "1,3 L"
+      }
     }
   ]
 }
