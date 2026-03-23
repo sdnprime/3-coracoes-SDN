@@ -92,19 +92,17 @@ function filterProducts() {
 function createProductCard(product) {
   const card = document.createElement("div");
   card.className = "product-card";
-  let nameLaber = "";
+
   // Ajustado para o nome da chave no seu JSON: "informacaoNutricional"
   const nutrition =
     product.informacaoNutricional || product.especificacoes || {};
 
-  if (
+  const nameLabel =
     product.informacaoNutricional &&
     Object.keys(product.informacaoNutricional).length > 0
-  ) {
-    nameLabel = "Informação Nutricional";
-  } else {
-    nameLabel = "Especificações";
-  }
+      ? "Informação Nutricional"
+      : "Especificações";
+
   // Mapeia dinamicamente: funciona para "Sódio", "Açúcares", "Minerais", etc.
   const nutritionRows = Object.entries(nutrition)
     .map(([key, value]) => {
@@ -130,7 +128,7 @@ function createProductCard(product) {
         </div>
 
         <div class="card-back">
-            <h4>${nameLaber}</h4>
+            <h4>${nameLabel}</h4>
             <table class="nutrition-table">
                 <tbody>
                     ${nutritionRows}
