@@ -278,6 +278,43 @@
         "Formato": "Solúvel",
         "Peso": "40g"
       }
+    },
+    {
+      "id": "17",
+      "nome": "Porta Cápsulas Sustentável para 16 Cápsulas TRES 3 Corações",
+      "categoria": "Acessórios",
+      "preco": 99.9,
+      "imagem": "imagens/porta-caps3--1-.png",
+      "especificacoes": {
+        "Tamanho": "25cm x 25cm x 5,5cm",
+        "Capacidade": "Armazena até 16 cápsulas"
+      }
+    },
+    {
+      "id": "18",
+      "nome": "Porta Cápsulas de Prateleira Cromado Para 30 Cápsulas TRES 3 Corações",
+      "categoria": "Acessórios",
+      "preco": 69.9,
+      "imagem": "imagens/porta-capsulas-prateleira-prata.png",
+      "especificacoes": {
+        "Instruções": "Limpe com pano levemente umedecido nas áreas sujas. Evite químicos e abrasivos para preservar o acabamento e a durabilidade do produto.",
+        "Capacidade": "Suporta até 30 cápsulas, garantindo organização e fácil acesso às suas bebidas preferidas.",
+        "Material": "Confeccionado em aço carbono de alta qualidade, disponível nos acabamentos cromado ou preto, ambos resistentes e duráveis."
+      }
+    },
+    {
+      "id": "19",
+      "nome": "Moedor de Café Manual - 120g",
+      "categoria": "Acessórios",
+      "preco": 710.0,
+      "imagem": "imagens/Moinho-de-Cafe-Manual.png",
+      "especificacoes": {
+        "Capacidade": "120 g",
+        "Material": "Vidro/Plástico",
+        "Quantidade": "1 Unidade",
+        "Cor": "Marrom",
+        "Dimensões": " Altura em cm: 20,8 Comprimento em cm: 14,3"
+      }
     }
   ]
 }
