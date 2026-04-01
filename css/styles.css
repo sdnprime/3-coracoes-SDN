@@ -28,9 +28,22 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.header-content img {
+/* .header-content a img {
   width: 10%;
   height: 100%;
+} */
+
+/* Controla o tamanho do link em si (que agora é o container da imagem) */
+.header-content a {
+  width: 10%; /* Movemos o tamanho que estava na img para o link */
+  display: flex;
+  align-items: center;
+}
+
+.header-content a img {
+  width: 100%; /* Elas vão ocupar 100% da largura do link <a> */
+  height: auto;
+  display: block; /* Remove espaços vazios abaixo da imagem */
 }
 
 .header-left h1 {
@@ -41,8 +54,9 @@ body {
   display: flex;
 }
 
+/* Ajuste específico para a logo da Cognitivos se necessário */
 .header-content .logocim {
-  width: 10%;
+  width: 100%;
 }
 
 .search-container {
